@@ -6,8 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Author - kanishka arya
-this is my first git repository
+- this is my first git repository
 <!---
-kanishkaarya722/kanishkaarya722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kanishkaarya722/kanishkaarya722 is a ✨ special ✨ repository because its `README.md` (this fi appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
